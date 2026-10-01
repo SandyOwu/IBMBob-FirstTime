@@ -33,7 +33,7 @@ Cuando Bob haya terminado de modificar, significa que ya está terminado!
 
 
 
-# Opcional
+## Opcional
 
 Pueden subir su archivo a una rama, de este mismo repositorio para saber quiénes al menos lo intentaron. 
 
