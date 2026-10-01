@@ -1,0 +1,13 @@
+Act as an expert frontend developer. I have a basic monitoring HTML file. I want you to rewrite it into a 'Space Monitoring Dashboard' with a Cyberpunk visual style.
+
+Requirements:
+
+1- Use embedded CSS within the file. The background must be black, with glowing neon green text and a monospace font.
+
+2- Give the data card glowing borders and a neon glow effect.
+
+3- Use embedded JavaScript to add functionality to the 'Refresh Data' button. When clicked, the energy and temperature values must change to random numbers.
+
+4- If the generated temperature exceeds 80°C, the text color must blink in neon red as a warning alert.
+
+5- Return a single, complete HTML file.
