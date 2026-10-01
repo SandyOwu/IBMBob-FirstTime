@@ -2,6 +2,8 @@
 
 Hola compañeros! Este es un repositorio de prueba para que puedan probar IBMBob por primera vez. Cuenta con un ejemplo para que lo prueben sin problemas. Cualquier duda o problema pueden preguntarme sin problema por medio del grupo de WhatsApp del taller llamado "Linux".
 
+El proósito de esta prueba es modificar el archivo "index.hmtl" con Bob para que miren su manera de trabajar y ayudar como agente.
+
 Exito compañeros.
 
 ## Descarga
@@ -14,7 +16,6 @@ https://bob.ibm.com/es
 
 ## Pasos a seguir
 Después de clonar este repositorio, es necesario abrir la carpeta de archivos con el IDE de IBMBob, este tiene una interfaz casi igual a la de VSCode.
-
 
 Una vez abierta la carpeta, entran en el archivo "prompt.txt" y copian el contenido del archivo. 
 
